@@ -1,4 +1,5 @@
 # Algoritmo de Criptografia (Arquitetura Enigma)
+![Gif Principal](https://github.com/GabrielIDSM/Algoritmo-de-Criptografia/blob/master/Imagens/Funcionamento.gif)
 
 ## Sobre o Projeto
 
@@ -13,6 +14,8 @@ Esse algoritmo consegue fazer a mesma criptografia de uma Máquina Enigma 1 de 3
 2. Os rotores a serem utilizados
 3. O número de caracteres da mensagem a ser Criptografada/Descriptografada
 4. A mensagem que será utilizada
+
+![Criptografia Descriptografia](https://github.com/GabrielIDSM/Algoritmo-de-Criptografia/blob/master/Imagens/CripDescrip.gif)
 
 ## Colaboradores e contato
 O Projeto é pessoal, feito por Gabriel Inácio ([Github](https://github.com/GabrielIDSM)/[LinkedIn](https://www.linkedin.com/in/gabriel-inacio-uff/)).
