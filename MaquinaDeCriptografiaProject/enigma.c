@@ -25,7 +25,7 @@ int main()
     prepararotor(ch2 ,rot2 ,U2);
     prepararotor(ch3 ,rot3 ,U3);    
     //frase que será criptografada
-    printf("Quantas caracteres tem na mensagem a ser criptografada?(espacos nao contam): ");
+    printf("Quantos caracteres tem na mensagem a ser criptografada?(espacos nao contam): ");
     scanf("%d",&ndeletras);
     char mensagem[ndeletras+1];  
     printf("Insira a mensagem a ser criptografada(sem espacos): ");
